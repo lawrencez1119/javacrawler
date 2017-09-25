@@ -7,6 +7,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
+/*copyright @ lawrence Zheng*/
 
 public class jsoupdemo {
 	public static void main(String[] args) throws IOException{
